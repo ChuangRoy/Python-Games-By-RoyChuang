@@ -11,7 +11,7 @@ copy_by:https://www.itread01.com/content/1545909497.html
 from tkinter import *
 import random
 
-showAnswer = True
+showAnswer = False #show answer when you're editing
 
 def ReStart():
     global GameNumber
