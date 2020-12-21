@@ -76,7 +76,7 @@ def SetupClock(radius):
             Skip(-radius)
         turtle.right(6)
 
-def Week(t):   
+def Week(t):
     week = ["星期一", "星期二", "星期三",
             "星期四", "星期五", "星期六", "星期日"]
     return week[t.weekday()]
@@ -97,7 +97,7 @@ def Tick():
     minHand.setheading(6 * minute)
     hurHand.setheading(30 * hour)
 
-    turtle.tracer(False) 
+    turtle.tracer(False)
     printer.forward(65)
     printer.write(Week(t), align="center",
                   font=("Courier", 14, "bold"))
