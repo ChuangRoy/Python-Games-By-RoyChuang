@@ -4,7 +4,7 @@ def move(n,a,b,c):
         i += 1
         print(i,a,"->",c)
         file.write(f"{i}{a}->{c}\n")
-        
+       
     else:
         move(n-1,a,b,c)
         i += 1

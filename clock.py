@@ -1,4 +1,4 @@
-#Coding utf-8 
+
 
 import turtle
 from datetime import *
