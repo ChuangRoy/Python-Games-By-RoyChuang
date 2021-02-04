@@ -98,7 +98,8 @@ paddle = Paddle(canvas,"blue")
 ball = Ball(canvas, paddle,score,"yellow")
 game_over_text = canvas.create_text(250, 200, text='GAME OVER',state='hidden') 
 click_txt = canvas.create_text(250, 200, text='CLICK ME',state='normal')
- 
+
+print("Made By Roy :) ")
 print("Game Started!")
 
 while 1:
