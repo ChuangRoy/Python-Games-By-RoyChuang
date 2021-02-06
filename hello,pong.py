@@ -102,11 +102,6 @@ class Game(tk.Frame):
         self.ball.collide(objects)
 
        
-            
-       
-
-
-
 class GameObject(object):
     def __init__(self, canvas, item):
         self.canvas = canvas
@@ -158,10 +153,10 @@ class Ball(GameObject):
             for game_object in game_objects:
                 if isinstance(game_object, Brick):
                     game_object.hit()
-                
-            
-            
-        
+                 
+
+
+
 class Paddle(GameObject):
     def __init__(self, canvas, x, y):
         self.width = 80
