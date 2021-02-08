@@ -11,6 +11,6 @@ cur/
 tmp/
 .vscode/
 __pycache__/
-.ipynb_checkpoints
+.ipynb_checkpoint/
 *.DS_Store
 jupyter.exe
