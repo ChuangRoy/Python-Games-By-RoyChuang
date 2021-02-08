@@ -9,6 +9,7 @@
 *~
 cur/
 tmp/
+.vscode/
 __pycache__/
 *.DS_Store
 jupyter-notebook.exe
