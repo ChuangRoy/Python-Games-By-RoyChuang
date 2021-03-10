@@ -6,7 +6,7 @@ from datetime import *
 
 print('Made by Roy :)')
 
-# ?起畫筆，向前運動一段距離放下
+# 提起畫筆，向前運動一段距離放下
 def Skip(step):
     turtle.penup()
     turtle.forward(step)
