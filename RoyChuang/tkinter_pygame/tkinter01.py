@@ -1,11 +1,9 @@
 from tkinter import *
 from tkinter import colorchooser
-import time
 from typing import no_type_check_decorator
 tk = Tk()
 c = colorchooser.askcolor()
 print(c)
-
 
 def create__button():
     def click():
