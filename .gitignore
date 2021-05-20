@@ -12,4 +12,3 @@ tmp/
 __pycache__/
 .ipynb_checkpoint/
 *.DS_Store
-jupyter.exe
