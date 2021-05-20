@@ -57,13 +57,13 @@ def draw_different_arc():
     draw_arc(10, 320, 200, 400, 359)
 
 
-def draw_polygon(x1, y1, x2, y2, x3, y3, input_fill):
+def draw_triangle(x1, y1, x2, y2, x3, y3, input_fill):
     canvas.create_polygon(x1, y1, x2, y2, x3, y3,
                           fill=input_fill, outline="black")
-                          
+
 
 def draw_polygons():
-    draw_polygon(10, 10, 100, 10, 100, 110, "")
+    draw_triangle(10, 10, 100, 10, 100, 110, "")
     canvas.create_polygon(200, 10, 240, 30, 120, 100, 140,
                           120, fill="", outline="black")
 
@@ -75,7 +75,7 @@ create_canvas()
 # draw_random_rectangles_100()
 # draw_arc(10, 10, 200, 100, 180)
 # draw_different_arc()
-# draw_polygon(10, 10, 100, 10, 100, 110, "")
-# draw_polygons()
+draw_triangle(10, 10, 100, 10, 100, 110, "")
+draw_polygons()
 
 tk.mainloop()
