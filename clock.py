@@ -3,7 +3,6 @@
 import turtle
 from datetime import *
 
-
 print('Made by Roy :)')
 
 # 提起畫筆，向前運動一段距離放下

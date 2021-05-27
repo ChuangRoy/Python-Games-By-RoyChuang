@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "7251017b95054185",
+    "type": "split",
+    "children": [
+      {
+        "id": "95d10073321fd9d0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day01-15/02.语言元素.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee8843fc2243b25e",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ba664e4c3c0131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01f9a73878112829",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "362407ca4ab7e6dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e60a19e3891ee857",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba80f97a793d50f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d11e5f94b42534bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day01-15/02.语言元素.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "619c0f5bc32708c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day01-15/02.语言元素.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391
+  },
+  "lastOpenFiles": [
+    "Day01-15/02.语言元素.md",
+    "Day01-15/03.分支结构.md",
+    "Day01-15/04.循环结构.md",
+    "Day01-15/06.函数和模块的使用.md",
+    "Day66-70/67.NumPy的应用.md",
+    "Day66-70/68.Pandas的应用.md",
+    "README.md",
+    "Day66-70.md",
+    "公开课/文档/第04次公开课-好玩的Python/好玩的Python.md",
+    "Day01-15/01.初识Python.md"
+  ]
+}
