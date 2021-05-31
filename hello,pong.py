@@ -8,7 +8,7 @@ Created on Sun Dec  6 15:45:08 2020
 
 
 import tkinter as tk
-print('Made By Roy :)')
+print("Made By Roy :D")
 
 
 class Game(tk.Frame):
