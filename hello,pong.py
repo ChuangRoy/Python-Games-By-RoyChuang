@@ -5,8 +5,7 @@ Created on Sun Dec  6 15:45:08 2020
 
 @author: Roy
 """
-
-
+print("Hello World")
 import tkinter as tk
 print("Made By Roy :D")
 
