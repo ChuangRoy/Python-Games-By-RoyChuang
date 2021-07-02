@@ -11,6 +11,7 @@ copy_by:http://zetcode.com/tkinter/snake/
 import random
 from PIL import Image, ImageTk
 from tkinter import Tk, Frame, Canvas, ALL, NW
+import sys
 
 class Cons:
 
@@ -67,7 +68,7 @@ class Board(Canvas):
         except IOError as e:
 
             print(e)
-            sys.exit(1)
+            sys.exit()
 
 
     def createObjects(self):
