@@ -1,5 +1,5 @@
-print("Hello World")
 import tkinter as tk
+print("Hello World")
 print("Made By Roy :D")
 
 
